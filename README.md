@@ -35,6 +35,10 @@ I'm always open to collaborating on exciting projects, especially in **AI/ML, we
 
 ---
 
+⚡ **Fun fact:** I enjoy experimenting with AI models and building interactive web experiences!  
+
+---
+
 ## 📫 Connect with Me  
 - 🌐 **LinkedIn:** [Paavan Trivedi](https://www.linkedin.com/in/paavan-trivedi/)  
 - 📩 **Email:** [trivedipavan627@gmail.com](mailto:trivedipavan627@gmail.com)  
