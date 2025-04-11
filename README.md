@@ -43,6 +43,11 @@ I'm always open to collaborating on exciting projects, especially in **AI/ML, we
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soraha_hu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paavan-trivedi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/wahwahPaavan) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kiira262) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kiira262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trivedipavan627@gmail.com)
 
+
+---
+
+⚡ **Fun fact:** I enjoy experimenting with AI models and building interactive web experiences!
+
 ---
 
 # 💻 Tech Stack:
@@ -62,10 +67,6 @@ I'm always open to collaborating on exciting projects, especially in **AI/ML, we
 ### ✍️ Rand(Dev_Quote)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-⚡ **Fun fact:** I enjoy experimenting with AI models and building interactive web experiences!
 
 ---
 
