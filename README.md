@@ -8,7 +8,7 @@ I'm a passionate full-stack developer specializing in **MERN Stack, PHP, Laravel
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, JavaScript
+- **Frontend:** Angular, JavaScript, React,
 - **Backend:** PHP, Laravel, Node.js
 - **AI/ML:** Python, OpenCV, Machine Learning
 - **Database:** MySQL, MongoDB
@@ -29,7 +29,7 @@ I'm a passionate full-stack developer specializing in **MERN Stack, PHP, Laravel
 ## 🔥 What I'm Working On
 
 - 🏗️ **Internship Project:** Developing applications with **PHP & Laravel**.
-- 📖 **Currently Learning:** Advanced **Laravel & PHP**.
+- 📖 **Currently Learning:** Angular
 
 ---
 
