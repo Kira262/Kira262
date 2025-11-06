@@ -28,8 +28,8 @@ I'm a passionate full-stack developer specializing in **MERN Stack, PHP, Laravel
 
 ## 🔥 What I'm Working On
 
-- 🏗️ **Internship Project:** Developing applications with **PHP & Laravel**.
-- 📖 **Currently Learning:** Angular
+- 🏗️ **Internship Project:** Developing FullStack web applications.
+- 📖 **Currently Learning:** LLMs
 
 ---
 
