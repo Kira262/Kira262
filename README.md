@@ -17,7 +17,6 @@ I'm a passionate full-stack developer specializing in **MERN Stack, PHP, Laravel
 
 ## 🌟 Featured Projects
 
-🔹 [DrumKit](https://github.com/Kira262/JS-DrumKit) - Play drums using your keyboard! 🥁  
 🔹 [DoodleJump](https://github.com/Kira262/Doodle-Jump) - A fun doodle jump game! 🎮  
 🔹 [Gender & Age Detection](https://github.com/Kira262/Gender-Age-Detection) - AI model for real-time detection. 🧠  
 🔹 [Virtual Paint App](https://github.com/Kira262/VirtualPaintApp) - Create digital art with hand gestures! 🎨  
@@ -28,8 +27,8 @@ I'm a passionate full-stack developer specializing in **MERN Stack, PHP, Laravel
 
 ## 🔥 What I'm Working On
 
-- 🏗️ **Internship Project:** Developing FullStack web applications.
-- 📖 **Currently Learning:** LLMs
+- 🏗️ **Current Project:** 
+- 📖 **Currently Learning:** LLMs & Adversarial Machine Learning
 
 ---
 
@@ -41,7 +40,7 @@ I'm always open to collaborating on exciting projects, especially in **AI/ML, we
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soraha_hu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paavan-trivedi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kiira262) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kiira262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trivedipavan627@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soraha_hu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paavan-trivedi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trivedipavan627@gmail.com)
 
 
 ---
