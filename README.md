@@ -27,7 +27,7 @@ I'm a passionate full-stack developer specializing in **MERN Stack, PHP, Laravel
 
 ## 🔥 What I'm Working On
 
-- 🏗️ **Current Project:** 
+- 🏗️ **Current Project:** PhysioPlay
 - 📖 **Currently Learning:** LLMs & Adversarial Machine Learning
 
 ---
